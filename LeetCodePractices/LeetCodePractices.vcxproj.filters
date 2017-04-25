@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Q236_lowest_common_ancestor_of_a_binary_tree.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="common.cpp" />
+    <ClCompile Include="Q96_unique_binary_search_trees.cpp" />
+    <ClCompile Include="Q95_Unique_Binary_Search_Trees_II.cpp" />
+    <ClCompile Include="Q241_Different_Ways_to_Add_Parentheses.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Q236_lowest_common_ancestor_of_a_binary_tree.h" />
+    <ClInclude Include="common.h" />
+    <ClInclude Include="Q96_unique_binary_search_trees.h" />
+    <ClInclude Include="Q95_Unique_Binary_Search_Trees_II.h" />
+    <ClInclude Include="Q241_Different_Ways_to_Add_Parentheses.h" />
+  </ItemGroup>
+</Project>
