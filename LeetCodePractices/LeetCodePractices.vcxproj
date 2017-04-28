@@ -143,6 +143,8 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Q236_lowest_common_ancestor_of_a_binary_tree.cpp" />
     <ClCompile Include="Q241_Different_Ways_to_Add_Parentheses.cpp" />
+    <ClCompile Include="Q436_Find_Right_Interval.cpp" />
+    <ClCompile Include="Q473_Matchsticks_to_Square.cpp" />
     <ClCompile Include="Q95_Unique_Binary_Search_Trees_II.cpp" />
     <ClCompile Include="Q96_unique_binary_search_trees.cpp" />
   </ItemGroup>
@@ -150,6 +152,8 @@
     <ClInclude Include="common.h" />
     <ClInclude Include="Q236_lowest_common_ancestor_of_a_binary_tree.h" />
     <ClInclude Include="Q241_Different_Ways_to_Add_Parentheses.h" />
+    <ClInclude Include="Q436_Find_Right_Interval.h" />
+    <ClInclude Include="Q473_Matchsticks_to_Square.h" />
     <ClInclude Include="Q95_Unique_Binary_Search_Trees_II.h" />
     <ClInclude Include="Q96_unique_binary_search_trees.h" />
   </ItemGroup>

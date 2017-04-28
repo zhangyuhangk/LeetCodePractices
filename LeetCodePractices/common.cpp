@@ -1,10 +1,11 @@
 #include "common.h"
 
 ostream& operator<<(ostream& s, const vector<int>& v) {
+	s << "[";
 	for (size_t i = 0; i < v.size(); ++i) {
 		s << (i == 0 ? "" : ", ") << v[i];
 	}
-	return s;
+	return s << "]";
 }
 
 int randomInt(int l, int u) {
