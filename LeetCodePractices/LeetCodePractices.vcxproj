@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="common.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Q235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp" />
     <ClCompile Include="Q236_lowest_common_ancestor_of_a_binary_tree.cpp" />
     <ClCompile Include="Q241_Different_Ways_to_Add_Parentheses.cpp" />
     <ClCompile Include="Q436_Find_Right_Interval.cpp" />
@@ -150,6 +151,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h" />
+    <ClInclude Include="Q235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.h" />
     <ClInclude Include="Q236_lowest_common_ancestor_of_a_binary_tree.h" />
     <ClInclude Include="Q241_Different_Ways_to_Add_Parentheses.h" />
     <ClInclude Include="Q436_Find_Right_Interval.h" />

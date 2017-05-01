@@ -39,6 +39,9 @@ public:
 		}
 		return v;
 	}
+
+private:
+	map<pair<int, int>, vector<TreeNode*>> cache;
 };
 
 static void printNode(TreeNode* node, const string& indent) {
